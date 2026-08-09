@@ -1,4 +1,3 @@
-##  InitBase list
 0xA988FDC
 0xABFF3C0
 0xA986B7C
